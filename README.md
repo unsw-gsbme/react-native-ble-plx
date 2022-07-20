@@ -9,6 +9,21 @@
 
 ## About this library
 
+### UNSW GSBME fork supporting Android 12
+Version that that this is forked from is 2.0.3
+It uses
+ - 'com.github.Polidea:MultiPlatformBleAdapter:b0272c0fae040cc90f790481c54e8f2d45304339'
+
+Which in turns uses:
+- com.polidea.rxandroidble:rxandroidble:1.7.1
+
+### Related repos
+
+- https://github.com/unsw-gsbme/MultiPlatformBleAdapter
+- https://github.com/unsw-gsbme/RxAndroidBle
+
+
+### About
 This is React Native Bluetooth Low Energy library wrapping [Multiplatform Ble Adapter](https://github.com/dotintent/MultiPlatformBleAdapter/).
 
 It supports:
