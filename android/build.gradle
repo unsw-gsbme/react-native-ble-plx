@@ -46,5 +46,5 @@ repositories {
 
 dependencies {
     implementation "com.facebook.react:react-native:+"
-    implementation 'com.github.unsw-gsbme:MultiPlatformBleAdapter:android12withmaster-SNAPSHOT'
+    implementation 'com.github.unsw-gsbme:MultiPlatformBleAdapter:78604cd7d096c327e4bf5e93f089d6d2e61706db'
 }
